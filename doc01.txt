@@ -1,1 +1,2 @@
 Nova aleração
+Alteracao do arquivo doc01 apos o stash
